@@ -1,6 +1,6 @@
-**the rainbow and the unicorn**
-just a unicorn, no poney -- modify 2 from unicorn
-
+**the rainbow and the unicorn from the Wild Wild West**
+I'm the Poney here
+- and I'm the dog and I'm the sun and I'm the love!--
 
 this is a written poem
 which in Dutch rhymes with bloom
@@ -9,4 +9,5 @@ and I also have an oral poem
 which in Dutch rhymes with nothing
 while in French it's still a poème
 
-the aimd
+the aimd for the MASTER (of no ponies)
+and now this is the forked version in the recycled branch 
